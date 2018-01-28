@@ -1,7 +1,6 @@
 package com.zhanghuanfa.color;
 
 import com.zhanghuanfa.AbstractFactory;
-import com.zhanghuanfa.factory.Shape;
 import com.zhanghuanfa.shape.Shape;
 
 /**
